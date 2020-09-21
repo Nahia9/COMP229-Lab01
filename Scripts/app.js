@@ -19,6 +19,6 @@
     window.addEventListener("load", Start);
 
 
-    document.getElementById("intro").innerHTML =  "I'm Nahia Akter. You can call me Nahia. This is a new sector for me and I'm learning everyday."   
+    document.getElementById("intro").innerHTML =  "I'm Nahia Akter. Enrolled as a 3rd semester student of Software Engineering Technology at Centennial college. This is a new sector for me and I'm learning everyday."   
 
 })();
